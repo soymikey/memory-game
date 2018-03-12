@@ -1,20 +1,10 @@
-# Memory Game Project
+Memory game
 
-## Table of Contents
+This is a quick game you can finished within 1 minute.
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+ How to play:
+ Click a card it will fliped and show the symbol.If second card's symbol isn't matched to first card, it will flip back. If two card's symbol are matched. It will stay flipped.
+ You will get your score and timing when you have finsihed game.
 
-## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+Click [this link](https://github.com/soymikey/memory-game)
