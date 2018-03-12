@@ -85,7 +85,7 @@ function count_up(){
     })}
 //change 60 seconds to 1 minute
 function second_minute(){
-  if (time===10){
+  if (time===60){
     time=0
     setTimeout(function(){$('.minute').text(minutes+=1)},1000)
   }
