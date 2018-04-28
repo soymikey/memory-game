@@ -7,4 +7,4 @@ This is a quick game you can finished within 1 minute.
  You will get your score and timing when you have finsihed game.
 
 
-Click [this link](https://github.com/soymikey/memory-game)
+To play Memory game :https://soymikey.github.io/memory-game.io/.
